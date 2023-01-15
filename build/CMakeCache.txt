@@ -444,6 +444,12 @@ lib:FILEPATH=/opt/ros/noetic/lib/librostime.so
 message_runtime_DIR:PATH=/opt/ros/noetic/share/message_runtime/cmake
 
 //Value Computed by CMake
+my_mapping_launcher_BINARY_DIR:STATIC=/home/user/catkin_ws/build/my_mapping_launcher
+
+//Value Computed by CMake
+my_mapping_launcher_SOURCE_DIR:STATIC=/home/user/catkin_ws/src/my_mapping_launcher
+
+//Value Computed by CMake
 provide_map_BINARY_DIR:STATIC=/home/user/catkin_ws/build/provide_map
 
 //Value Computed by CMake
@@ -463,6 +469,12 @@ rostime_DIR:PATH=/opt/ros/noetic/share/rostime/cmake
 
 //The directory containing a CMake configuration file for std_msgs.
 std_msgs_DIR:PATH=/opt/ros/noetic/share/std_msgs/cmake
+
+//Value Computed by CMake
+u2ex10_BINARY_DIR:STATIC=/home/user/catkin_ws/build/u2ex10
+
+//Value Computed by CMake
+u2ex10_SOURCE_DIR:STATIC=/home/user/catkin_ws/src/u2ex10
 
 
 ########################
@@ -612,7 +624,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=8
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

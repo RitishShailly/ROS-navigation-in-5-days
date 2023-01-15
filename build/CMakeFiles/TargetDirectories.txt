@@ -55,3 +55,17 @@
 /home/user/catkin_ws/build/get_map_data/CMakeFiles/list_install_components.dir
 /home/user/catkin_ws/build/get_map_data/CMakeFiles/rebuild_cache.dir
 /home/user/catkin_ws/build/get_map_data/CMakeFiles/std_msgs_generate_messages_cpp.dir
+/home/user/catkin_ws/build/my_mapping_launcher/CMakeFiles/install/strip.dir
+/home/user/catkin_ws/build/my_mapping_launcher/CMakeFiles/install/local.dir
+/home/user/catkin_ws/build/my_mapping_launcher/CMakeFiles/install.dir
+/home/user/catkin_ws/build/my_mapping_launcher/CMakeFiles/list_install_components.dir
+/home/user/catkin_ws/build/my_mapping_launcher/CMakeFiles/rebuild_cache.dir
+/home/user/catkin_ws/build/my_mapping_launcher/CMakeFiles/edit_cache.dir
+/home/user/catkin_ws/build/my_mapping_launcher/CMakeFiles/test.dir
+/home/user/catkin_ws/build/u2ex10/CMakeFiles/install/strip.dir
+/home/user/catkin_ws/build/u2ex10/CMakeFiles/install/local.dir
+/home/user/catkin_ws/build/u2ex10/CMakeFiles/install.dir
+/home/user/catkin_ws/build/u2ex10/CMakeFiles/list_install_components.dir
+/home/user/catkin_ws/build/u2ex10/CMakeFiles/rebuild_cache.dir
+/home/user/catkin_ws/build/u2ex10/CMakeFiles/edit_cache.dir
+/home/user/catkin_ws/build/u2ex10/CMakeFiles/test.dir
