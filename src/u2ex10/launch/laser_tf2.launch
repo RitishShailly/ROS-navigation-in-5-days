@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="tf" type="static_transform_publisher" name="laser_tf2_node" 
+          args="0 0 10 0 0 0 /base_link /laser_sensor_link 10">
+    </node>
+</launch>
