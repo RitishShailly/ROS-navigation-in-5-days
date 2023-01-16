@@ -4,9 +4,9 @@
   <arg name="odom_frame"  default="odom"/>
 
   <node pkg="gmapping" type="slam_gmapping" name="slam_gmapping" output="screen">
-    <param name="base_frame" value="$(arg base_frame)"/>
+    <!-- <param name="base_frame" value="$(arg base_frame)"/>
     <param name="odom_frame" value="$(arg odom_frame)"/>
-    
+     -->
     <rosparam file="$(find my_mapping_launcher)/params/gmapping_params.yaml" command="load" />
     <!--<param name="map_update_interval" value="2.0"/>
     <param name="maxUrange" value="6.0"/>
