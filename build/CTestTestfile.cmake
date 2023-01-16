@@ -7,5 +7,7 @@
 subdirs("gtest")
 subdirs("provide_map")
 subdirs("get_map_data")
+subdirs("get_pose")
+subdirs("my_amcl_launcher")
 subdirs("my_mapping_launcher")
 subdirs("u2ex10")
