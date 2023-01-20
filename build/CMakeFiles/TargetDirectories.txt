@@ -62,6 +62,13 @@
 /home/user/catkin_ws/build/get_pose/CMakeFiles/rebuild_cache.dir
 /home/user/catkin_ws/build/get_pose/CMakeFiles/edit_cache.dir
 /home/user/catkin_ws/build/get_pose/CMakeFiles/test.dir
+/home/user/catkin_ws/build/initialize_particles/CMakeFiles/install/strip.dir
+/home/user/catkin_ws/build/initialize_particles/CMakeFiles/install/local.dir
+/home/user/catkin_ws/build/initialize_particles/CMakeFiles/install.dir
+/home/user/catkin_ws/build/initialize_particles/CMakeFiles/list_install_components.dir
+/home/user/catkin_ws/build/initialize_particles/CMakeFiles/rebuild_cache.dir
+/home/user/catkin_ws/build/initialize_particles/CMakeFiles/edit_cache.dir
+/home/user/catkin_ws/build/initialize_particles/CMakeFiles/test.dir
 /home/user/catkin_ws/build/my_amcl_launcher/CMakeFiles/install/strip.dir
 /home/user/catkin_ws/build/my_amcl_launcher/CMakeFiles/install/local.dir
 /home/user/catkin_ws/build/my_amcl_launcher/CMakeFiles/install.dir
